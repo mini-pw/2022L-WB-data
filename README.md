@@ -57,48 +57,49 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>7</td>
     <td>2022</td>
-    <td>Dlaczego uspójnianie danych jest ważne. Techniki preprocessingu (danych numerycznych, obrazowych i tekstowych). Dyskusja nad tym, jak stworzyć narzędzie uniwersalne do uspójniania danych.</td>
+    <td>Porównywanie baz danych</td>
     <td>Kamień milowy 3 (6 pkt)</td>
   </tr>
   <tr>
     <td>8</td>
     <td>2022</td>
-    <td>Przegląd zastosowań sztucznej inteligencji na danych medycznych.</td>
-    <td></td>
+    <td>Dlaczego uspójnianie danych jest ważne. Techniki preprocessingu (danych numerycznych, obrazowych i tekstowych). Dyskusja nad tym, jak stworzyć narzędzie uniwersalne do uspójniania danych.</td>
+    <td>Kamień milowy 4 (6 pkt)</td>
   </tr>
   <tr>
     <td>9</td>
     <td>2022</td>
-    <td>Co koniecznie trzeba wiedzieć o sieciach przed trenowaniem.</td>
+    <td>Przegląd zastosowań sztucznej inteligencji na danych medycznych.</td>
     <td></td>
   </tr>
   <tr>
     <td>10</td>
     <td>2022</td>
-    <td>Tworzymy pierwszy model - krótki wstęp do trenowania.</td>
-    <td rowspan="3">Kamień milowy 4 (12 pkt)</td>
+    <td>Co koniecznie trzeba wiedzieć o sieciach przed trenowaniem.</td>
+    <td></td>
   </tr>
   <tr>
     <td>11</td>
     <td>2022</td>
-    <td>Trenujemy gotowe architektury modeli naszymi danymi.</td>
+    <td>Tworzymy pierwszy model obrazowy - krótki wstęp do trenowania (PyTorch).</td>
+    <td rowspan="4">Kamień milowy 5 (12 pkt)</td>
   </tr>
   <tr>
     <td>12</td>
     <td>2022</td>
-    <td>Metody uczenia zespołowego.</td>
+    <td>Tworzymy pierwszy model tekstowy - krótki wstęp do trenowania (PyTorch).</td>
   </tr>
   <tr>
     <td>13</td>
     <td>2022</td>
-    <td>Fairness - co to jest i po co to sprawdzać (dla dowolnego wytrenowanego modelu).</td>
-    <td rowspan="2">Kamień milowy 5 (6 pkt)</td>
+    <td>Trenujemy gotowe architektury modeli naszymi danymi.</td>
   </tr>
   <tr>
     <td>14</td>
     <td>2022</td>
-    <td>eXplainable Artificial Intelligence (XAI) - wstęp. Sprawdzamy przypadki, w których model się myli (dla dowolnego wytrenowanego modelu - obraz/tekst/tabelaryczne).</td>
+    <td>Metody uczenia zespołowego.</td>
   </tr>
+
   <tr>
     <td>15</td>
     <td>2022</td>
