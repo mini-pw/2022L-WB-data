@@ -57,7 +57,7 @@ Warszataty Badawcze składają się z:
   <tr>
     <td>7</td>
     <td>2022</td>
-    <td>Porównywanie baz danych z ich opisem w artykule</td>
+    <td>Porównanie baz danych z ich opisem w artykule</td>
     <td>Kamień milowy 3 (6 pkt)</td>
   </tr>
   <tr>
