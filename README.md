@@ -29,7 +29,7 @@ Warszataty Badawcze składają się z:
     <td>2</td>
     <td>2022</td>
     <td>Zapoznanie się z artykułami opisującymi bazy danych.</td>
-    <td rowspan="2">Kamień milowy 1 (6 pkt)</td>
+    <td rowspan="2">Kamień milowy 1 (8 pkt)</td>
   </tr>
     <tr>
     <td>3</td>
@@ -41,7 +41,7 @@ Warszataty Badawcze składają się z:
     <td>4</td>
     <td>2022</td>
     <td>Omówienie wstępnej analizy danych.</td>
-	<td rowspan="2">Kamień milowy 2 (10 pkt)</td>
+	<td rowspan="2">Kamień milowy 2 (12 pkt)</td>
   </tr>
   <tr>
     <td>5</td>
@@ -64,7 +64,7 @@ Warszataty Badawcze składają się z:
     <td>8</td>
     <td>2022</td>
     <td>Dlaczego uspójnianie danych jest ważne. Techniki preprocessingu (danych numerycznych, obrazowych i tekstowych). Dyskusja nad tym, jak stworzyć narzędzie uniwersalne do uspójniania danych.</td>
-    <td>Kamień milowy 4 (6 pkt)</td>
+    <td>Kamień milowy 4 (8 pkt)</td>
   </tr>
   <tr>
     <td>9</td>
@@ -82,7 +82,7 @@ Warszataty Badawcze składają się z:
     <td>11</td>
     <td>2022</td>
     <td>Tworzymy pierwszy model obrazowy - krótki wstęp do trenowania (PyTorch).</td>
-    <td rowspan="4">Kamień milowy 5 (12 pkt)</td>
+    <td rowspan="4">Kamień milowy 5 (14 pkt)</td>
   </tr>
   <tr>
     <td>12</td>
@@ -108,6 +108,13 @@ Warszataty Badawcze składają się z:
   </tr>
 </tbody>
 </table>
+
+### Zasady oceniania (suma 100 pkt)
+-   praca na laboratoriach - 48 pkt.
+-   nagrana prezentacja w LaTeX- 16 pkt. (oceniana przez wszystkich prowadzących)
+	- dwie prezentacje z grupy zajęciowej, które uzyskały najlepsze oceny, zostaną zaprezentowane wszystkim studentom
+-   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
+-   stosowanie dobrych praktyk używania Gita - 4 pkt.
 
 ### Literatura
 - Aston Zhang, Zachary C. Lipton. & Mu Li and Alexander J. Smola. (2021). [Dive into Deep Learning.](https://d2l.ai)
