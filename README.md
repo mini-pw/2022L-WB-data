@@ -119,5 +119,5 @@ Warszataty Badawcze składają się z:
 ### Literatura
 - Aston Zhang, Zachary C. Lipton. & Mu Li and Alexander J. Smola. (2021). [Dive into Deep Learning.](https://d2l.ai)
 - Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński & Przemysław Biecek (2021) [Prevention is better than cure: a case study of the abnormalities detection in the chest.](https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view) CVPR 2021 Workshop "Beyond Fairness"
-- Erdi Çallı, Ecem Sogancioglu, Bram van Ginneken, Kicky G.van Leeuwe & Keelin Murphy (2021) [Deep learning for chest X-ray analysis: A survey.](https://www.sciencedirect.com/science/article/pii/S136184152001717) Medical Image Analysis
+- Erdi Çallı, Ecem Sogancioglu, Bram van Ginneken, Kicky G.van Leeuwe & Keelin Murphy (2021) [Deep learning for chest X-ray analysis: A survey.](https://www.sciencedirect.com/science/article/pii/S1361841521001717) Medical Image Analysis
 - Huazhu FU (2021) [COVID-19 Imaging-based AI Research Collection](https://github.com/HzFu/COVID19_imaging_AI_paper_list/blob/master/README.md#dataset)
