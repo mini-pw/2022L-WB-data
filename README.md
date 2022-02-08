@@ -8,7 +8,7 @@ Warszataty Badawcze składają się z:
  - zajęć laboratoryjnych i projektowych
 
 ### Terminy i tematy zajęć 
-
+Zajęcia będą składały się z dwóch części. Pierwsza z nich będzie skupiona na dogłębnej analizie danych medycznych: obrazowych, tabelarycznych oraz tekstowych. Po analizie dane zostaną przygotowane do drugiej części zajęć, czy do trenowania nimi modeli uczenia maszynowego oraz gotowych architektur głębokich sieci neuronowych (możliwość wyboru między danymi obrazowymi a tekstowymi).
 
 <table>
 <thead>
