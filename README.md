@@ -76,13 +76,12 @@ Zajęcia będą składały się z dwóch części. Pierwsza z nich będzie skupi
     <td>10</td>
     <td>28-04-2022</td>
     <td>Co koniecznie trzeba wiedzieć o sieciach przed trenowaniem.</td>
-    <td></td>
+    <td rowspan="4">Kamień milowy 5 (14 pkt)></td>
   </tr>
   <tr>
     <td>11</td>
     <td>05-05-2022</td>
     <td>Tworzymy pierwszy model obrazowy - krótki wstęp do trenowania (PyTorch).</td>
-    <td rowspan="4">Kamień milowy 5 (14 pkt)</td>
   </tr>
   <tr>
     <td>12</td>
@@ -92,12 +91,13 @@ Zajęcia będą składały się z dwóch części. Pierwsza z nich będzie skupi
   <tr>
     <td>13</td>
     <td>26-05-2022</td>
-    <td>Trenujemy gotowe architektury modeli naszymi danymi.</td>
+    <td>Trenujemy gotowe architektury modeli naszymi danymi. Konsultacje prezentacji.</td>
   </tr>
   <tr>
     <td>14</td>
     <td>02-06-2022</td>
     <td>Konsultacje projektowe.</td>
+    <td></td>
   </tr>
 
   <tr>
