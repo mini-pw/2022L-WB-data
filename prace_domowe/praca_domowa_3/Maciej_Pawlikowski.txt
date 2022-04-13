@@ -1,0 +1,24 @@
+_______________________________________
+VinDr-CXR 
+_______________________________________
+Creation year: 2021
+Data Source: Hospital 108 (H108) and the Hanoi Medical University Hospital(HMUH) in Vietnam
+Data volume: 18 000
+
+Important information not contained in data: all pictures are PA, test dataset was labeled by consensus of 5 radiologists, while training set only by 3( without consensus), all outliers were excluded from dataset, all patients are adults
+
+Information about dataset not contained in the article: None
+
+What taks were conducted on this dataset: Detection and segmentation (ex. https://ieeexplore.ieee.org/abstract/document/9395510 , accuracy 58.1%), high accuracy heat mapping (https://www.sciencedirect.com/science/article/pii/S2589004222002036), visual explaination of class activation map(https://www.bmvc2021-virtualconference.com/assets/papers/1283.pdf), Computer Aided Diagnosis System (https://arxiv.org/pdf/2104.02256.pdf)
+_______________________________________
+UCSD-AI4H/COVID-CT
+_______________________________________
+Creation year: 2020
+Data Source: the MedPix database, LUNA dataset, radiopaedia website, PubMed Central (PMC)
+Data volume: 216 Covid positive patients(349 pictures), number of covid negative patients not determined(397 pictures).
+
+Important information not contained in data: None
+
+Information about dataset not contained in the article: None
+
+What taks were conducted on this dataset: Classification (ex. https://arxiv.org/pdf/2003.13865.pdf)
