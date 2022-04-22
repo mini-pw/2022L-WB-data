@@ -26,3 +26,6 @@ Uwaga:
 Dane CT i RTG należy traktować jako osobne zbiory, nie łączyć ich.
 Liczbę kanałów, jeśli jest różna w obrazach w bazach danych, to należy ujednolicić, sugeruję jednokanałowe.
 Zdjęcia CT 2D i 3D można traktować osobno, albo połączyć i zamienić 3D na wiele 2D, trzeba jednak rozważyć za i przeciw oraz co chcecie wykorzystać i jak do trenowania Waszych modeli.
+
+Uwaga 2:
+Proszę o zachowanie nazewnictwa folderu z pracą domową zgodnie ze wzorem: nazwisko1_nazwisko2_nazwisko3.
