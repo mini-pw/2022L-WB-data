@@ -8,8 +8,8 @@ Stworzyć pipeline do preprocessingu, aby działał z każdą bazą danych zdję
 W przypadku braku bazy danych z tekstem w grupie, to należy połączyć artykuły dotyczące baz danych w jeden i na tym tekście przeprowadzić następujące operacje:
 - zamienić na małe litery
 - usunąć cyfry lub zamienić na odpowiednie tagi + uzasadnić wybór
-- usunąć śmieci z tekstu (nie ręcznie, ale np. przy użyciu wyrażeń regularnych!) + napisać co zostało usunięte
-- wykonać part-of-speech tagging + napisać wnioski
+- usunąć śmieci z tekstu (nie ręcznie, ale np. przy użyciu wyrażeń regularnych!) m.in. tagi html, numery stron itp. + napisać co zostało usunięte
+- wykonać part-of-speech tagging + napisać wnioski (np. gdzie występują błędy)
 - zamienić tekst na wektory - użyć pretrenowane word embeddingi np. word2vec, GloVe, BERT + uzasadnić wybór
 - użyć narzędzi do lemmatyzacji i do stemmingu
 
