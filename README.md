@@ -120,7 +120,7 @@ Następnie przechodzimy już do części drugiej przedmiotu, w której pierwszym
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
 -   stosowanie dobrych praktyk używania Gita - 4 pkt.
 
-#### Terminy
+### Terminy
 - oddanie prezentacji 29.05.2022
 - oddanie raportu końcowego 09.06.2022
 
