@@ -124,6 +124,15 @@ Następnie przechodzimy już do części drugiej przedmiotu, w której pierwszym
 - oddanie prezentacji 29.05.2022
 - oddanie raportu końcowego 09.06.2022
 
+#### Prefiksy do raport końcowego
+
+7_1_ dla zespołu Andrzejczuk_Bielecki_Wolny\
+7_2_ dla zespołu Deręgowski_Gryszkiewicz_Okonek\
+7_3_ dla zespołu Flis_Modzelewski_Olender\
+7_4_ dla zespołu Gąska_Fołtyn_Rakus\
+7_5_ dla zespołu Grunas_Sinski_Pawlikowski
+
+
 ### Literatura
 - Aston Zhang, Zachary C. Lipton. & Mu Li and Alexander J. Smola. (2021). [Dive into Deep Learning.](https://d2l.ai)
 - Weronika Hryniewska, Piotr Czarnecki, Jakub Wiśniewski, Przemysław Bombiński & Przemysław Biecek (2021) [Prevention is better than cure: a case study of the abnormalities detection in the chest.](https://drive.google.com/file/d/1-B5T3FCAHzDJbOaPtBnf5l9NnK-yhJtZ/view) CVPR 2021 Workshop "Beyond Fairness"
