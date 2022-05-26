@@ -2,7 +2,7 @@
 
 1. Indywidualna analiza dwóch baz danych
 
-2. Grupowa, systematyczna analiza dwóch baz danych
+2. Grupowa, systematyczna analiza baz danych
 
 3. Analiza artykułów dotyczących baz danych i bazujących na nich
 

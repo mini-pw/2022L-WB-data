@@ -1,6 +1,6 @@
 # Praca domowa 1
 
-## Analiza dwóch baz danych.
+## Analiza dwóch baz danych
 
 W pracach domowych chciałabym zobaczyć pytania, które sobie stawialiście analizując te bazy danych np. w formie pytanie-odpowiedź. Szukajcie problemów i nieścisłości w bazach danych. Spróbujcie znaleźć w bazach danych te elementy, które mogą sprawić, że Waszym zdaniem model może nauczyć się podejmować decyzje na podstawie niewłaściwych informacji. Zachęcam do analizy zarówno metadanych, annotacji oraz samych zdjęć. Pod koniec poproszę o wyciągnięcie wniosków i ciekawych spostrzeżeń na temat analizowanych przez Was baz danych. Proszę umieśćcie też w pracy zdjęcie z bazy danych, jeśli baza do segmentacji lub detekcji to również z naniesionymi annotacjami. <br /><br />
 
