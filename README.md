@@ -64,13 +64,12 @@ Zajęcia będą składały się z dwóch części. Pierwsza z nich będzie skupi
     <td>8</td>
     <td>14-04-2022</td>
     <td>Dlaczego uspójnianie danych jest ważne. Techniki preprocessingu (danych numerycznych, obrazowych i tekstowych). Dyskusja nad tym, jak stworzyć narzędzie uniwersalne do uspójniania danych.</td>
-    <td>Kamień milowy 4 (8 pkt)</td>
+    <td rowspan="2">Kamień milowy 4 (8 pkt)</td>
   </tr>
   <tr>
     <td>9</td>
     <td>21-04-2022</td>
     <td>Przegląd zastosowań sztucznej inteligencji na danych medycznych. Omówienie struktury raportu.</td>
-    <td></td>
   </tr>
   <tr>
     <td>10</td>
@@ -120,6 +119,19 @@ Następnie przechodzimy już do części drugiej przedmiotu, w której pierwszym
 	- dwie prezentacje z grupy zajęciowej, które uzyskały najlepsze oceny, zostaną zaprezentowane wszystkim studentom
 -   raport końcowy w LaTeX, z którego powstanie książka - 32 pkt.
 -   stosowanie dobrych praktyk używania Gita - 4 pkt.
+
+### Terminy
+- oddanie prezentacji 29.05.2022
+- oddanie raportu końcowego 09.06.2022
+
+#### Prefiksy do raport końcowego
+
+7_1_ dla zespołu Andrzejczuk_Bielecki_Wolny\
+7_2_ dla zespołu Deręgowski_Gryszkiewicz_Okonek\
+7_3_ dla zespołu Flis_Modzelewski_Olender\
+7_4_ dla zespołu Gąska_Fołtyn_Rakus\
+7_5_ dla zespołu Grunas_Sinski_Pawlikowski
+
 
 ### Literatura
 - Aston Zhang, Zachary C. Lipton. & Mu Li and Alexander J. Smola. (2021). [Dive into Deep Learning.](https://d2l.ai)
