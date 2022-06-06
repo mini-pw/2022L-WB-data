@@ -4,7 +4,7 @@
 
 
 Warszataty Badawcze składają się z:
- - wykładu
+ - [wykładu](https://github.com/MI2-Education/2022L-WarsztatyBadawcze)
  - zajęć laboratoryjnych i projektowych
 
 ### Terminy i tematy zajęć 
